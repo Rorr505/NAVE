@@ -1,4 +1,4 @@
-local ZenHub = Instance.new("ScreenGui")
+local Fluke = Instance.new("ScreenGui")
 local Open = Instance.new("TextButton")
 local fuckshit = Instance.new("UICorner")
 local MODILEMAGE = Instance.new("ImageLabel")
@@ -6,12 +6,12 @@ local posto = Instance.new("UIStroke")
 
 fuckshit.Parent = Open
 
-ZenHub.Name = "ไอ้ควายโอม"
+ZenHub.Name = "Fluke"
 ZenHub.Parent = game.CoreGui
 ZenHub.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Open.Name = "Open"
-Open.Parent = ไอ้ควายโอ
+Open.Parent = Fluke
 Open.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
 Open.BorderSizePixel = 0.5
 Open.Position = UDim2.new(0.120833337, 0, 0.0952890813, 0)
