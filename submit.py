@@ -9,7 +9,6 @@ from colorama import Fore
 from os import system
 import datetime
 from time import sleep
-import os
 from pystyle import Add, Center, Anime, Colors, Colorate, Write, System
 import urllib.parse,sys,socket,threading,random,time,requests
 import time
